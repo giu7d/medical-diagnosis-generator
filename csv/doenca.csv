@@ -1,0 +1,9 @@
+nome,idade_min,idade_max,peso_min,peso_max,altura_min,altura_max
+gripe,0,110,1,250,0.20,2.5
+alergia,0,110,1,250,0.20,2.5
+amigdalite,0,110,1,250,0.20,2.5
+pneumonia,0,110,1,250,0.20,2.5
+asma,0,110,1,250,0.20,2.5
+otite,0,110,1,250,0.20,2.5
+bronquite,0,110,1,250,0.20,2.5
+sinusite,0,110,1,250,0.20,2.5

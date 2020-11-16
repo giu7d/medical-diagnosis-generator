@@ -1,0 +1,39 @@
+doenca,sintoma,link
+gripe,calafrios,possui
+gripe,cansaço excessivo,possui
+gripe,dores no corpo,possui
+gripe,espirros,possui
+gripe,febre,possui
+gripe,perda de apetite,possui
+gripe,secreção nasal,possui
+gripe,tosse seca,possui
+pneumonia,calafrios,possui
+pneumonia,dificuldade para respirar,possui
+pneumonia,dores no peito,possui
+pneumonia,febre,possui
+pneumonia,fraqueza,possui
+pneumonia,náusea,possui
+pneumonia,vômitos,possui
+pneumonia,tosse seca,possui
+pneumonia,tosse com catarro,possui
+pneumonia,tosse com sangue,possui
+otite,calafrios,possui
+otite,congestão nasal,possui
+otite,diminuição da audição,possui
+otite,dor de cabeça,possui
+otite,dor no ouvido,possui
+otite,febre,possui
+otite,perda de apetite,possui
+otite,secreção nasal,possui
+otite,secreções no ouvido,possui
+amigdalite,dor de garganta,possui
+amigdalite,febre,possui
+amigdalite,gânglios linfáticos inchados,possui
+amigdalite,manchas de pus nas amígdalas,possui
+amigdalite,mau hálito,possui
+bronquite,chiado no peito,possui
+bronquite,dificuldade para respirar,possui
+bronquite,fadiga,possui
+bronquite,falta de ar,possui
+bronquite,febre,possui
+bronquite,tosse com muco,possui

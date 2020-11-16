@@ -1,0 +1,15 @@
+nome,sintoma,link
+felipe gimenez,dor de cabeça,sente {data:date("2020-11-15")}
+pessoa com gripe,calafrios,sente {data:date("2020-11-15")}
+pessoa com gripe,cansaço excessivo,sente {data:date("2020-11-14")}
+pessoa com gripe,dores no corpo,sente {data:date("2020-11-14")}
+pessoa com gripe,espirros,sente {data:date("2020-11-13")}
+pessoa com gripe,febre,sente {data:date("2020-11-13")}
+pessoa com gripe,perda de apetite,sente {data:date("2020-11-12")}
+pessoa com gripe,secreção nasal,sente {data:date("2020-11-11")}
+pessoa com gripe,tosse seca,sente {data:date("2020-11-11")}
+pessoa quase com gripe,espirros,sente {data:date("2020-11-11")}
+pessoa quase com gripe,febre,sente {data:date("2020-11-10")}
+pessoa quase com gripe,perda de apetite,sente {data:date("2020-11-10")}
+pessoa quase com gripe,secreção nasal,sente {data:date("2020-11-10")}
+pessoa quase com gripe,tosse seca,sente {data:date("2020-11-10")}
